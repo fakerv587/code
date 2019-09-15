@@ -1,0 +1,43 @@
+body {
+	background-image: url("../pictures/background.png");
+	font-size: 8pt;
+	font-family: "Verdana", "Tahoma", serif;
+
+}
+.banner img{
+	width: 100%;
+	background-image: url(“../pictures/bannerbackground.png”);
+	background-size: 100% 50px;
+}
+.mainhead h1{
+	font-size: 24pt;
+	font-weight: bold;
+	font-family:  "Tahoma", "Verdana",serif;
+	text-align: center;
+}
+.body {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	border:none;
+	border:4px solid grey;
+}
+.rightborad img {
+
+}
+.leftboard {
+	width: 550px;
+}
+.rotten {
+	background-image: url("../pictures/rottenbackground.png");
+	background-size: 100% 83px;
+	overflow: auto;
+}
+.rotten .bigger{
+	margin-top: 20px;
+	font-size: 48pt;
+	color: red;
+	border-style: none;
+	font-weight: bold;
+}
