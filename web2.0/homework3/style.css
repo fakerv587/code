@@ -8,21 +8,25 @@ html,body {
 	padding: 0;
 	overflow: hidden;
 }
+
 #at-plus-container {
 	position: relative;
 	width: 180pt;
 	height: 100%;
 	margin: auto;
 }
+
 #bottom-positioner {
 	position: absolute;
 	bottom: 0pt;
 	width: 100%;
 }
+
 #button {
 	width: 70px;
 	height: 70px;
 }/*设置大小*/
+
 #info-bar {
 	position: absolute;
 	width: 25px;
@@ -36,6 +40,7 @@ html,body {
 	z-index: -1;
 	overflow: hidden;
 }
+
 #button:hover #info-bar {
 	width: 130px;
 	height: 130px;
@@ -46,10 +51,12 @@ html,body {
 	opacity: 1;
 	z-index: 1;
 }
+
 #info-bar ul{
 	margin: 0 auto;
 	padding-left: 0;
 }
+
 #info-bar li {
 	list-style: none;
 	width: 100%;
@@ -57,12 +64,15 @@ html,body {
 	text-align: center;
 	color: #FFFFFF;
 }
+
 #info-bar li img {
 	vertical-align: middle;
 }
+
 #info-bar li span {
 	margin-left: 10px;
 }
+
 #info-bar li.mine {
 	display: inline;
 	width: 50%;
@@ -71,15 +81,19 @@ html,body {
 	box-sizing: border-box;
 	text-align: center;
 }
+
 #info-bar li.posted {
 	padding-left: 20px;
 }
+
 #info-bar li.like {
 	padding-left: 10px;
 }
+
 #info-bar li.comment {
-	font-size: 20px;
+	font-size: 30px;
 }/*字体大小*/
+
 #control-ring-container {
 	position: absolute;
 	width: 180px;
@@ -89,9 +103,11 @@ html,body {
 	border-radius: 50%;
 	z-index: -1;
 }
+
 #button:hover #control-ring-container {
 	z-index: 1;
 }
+
 #control-ring-container li {
 	list-style: none;
 	position: absolute;
@@ -107,29 +123,36 @@ html,body {
 	transition: all 0.5s;
 	opacity: 0;
 }
+
 #button:hover #control-ring li {
 	opacity: 1;
 }
+
 #button:hover #control-ring li:nth-child(1) {
 	margin: 20px 0px 0px -30px;
 	background-image: url("assets/images/nomask.png");
 }
+
 #button:hover #control-ring li:nth-child(2) {
 	margin: 60px 0px 0px -40px;
 	background-image: url("assets/images/history.png");
 }
+
 #button:hover #control-ring li:nth-child(3) {
 	margin: 100px 0px 0px -25px;
 	background-image: url("assets/images/message.png");
 }
+
 #button:hover #control-ring li:nth-child(4) {
 	margin: 130px 0px 0px 15px;
 	background-image: url("assets/images/setting.png");
 }
+
 #button:hover #control-ring li:nth-child(5) {
 	margin: 125px 0px 0px 60px;
 	background-image: url("assets/images/signin.png");
 }
+
 #control-ring li span.unread {
 	position: absolute;
 	top: -5px;
@@ -142,6 +165,7 @@ html,body {
 	line-height: 20px;
 	text-align: center;
 }
+
 #button .apb {
 	position: absolute;
 	bottom: 100px;
@@ -156,6 +180,7 @@ html,body {
 	background-size: 20px;
 	background-color: #919acb;
 }
+
 #button:hover .apb{
 	position: absolute;
 	width: 50px;
