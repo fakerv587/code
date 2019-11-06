@@ -46,11 +46,10 @@
 #qiang2, #qiang3 {
 	height: 140px;
 	width: 140px;
-	top:51px;
+	top:50.5px;
 	border-left: black solid 1px;
 	border-right: black solid 1px;
 	border-bottom: black solid 1px;
-	border-top:none;
 }
 #qiang2 {
 	left:0px;
@@ -61,7 +60,7 @@
 #qiang5 {
 	height: 140px;
 	width: 90px;
-	bottom: 50px;
+	bottom: 49.5px;
 	left:188px;
 	border-left: black solid 1px;
 	border-right: black solid 1px;

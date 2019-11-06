@@ -28,6 +28,9 @@ window.onload =function(){
             if(f==true)document.getElementById('score').innerText="Don't cheat, you should start form the 'S' and move to the 'E' inside the maze!";
             else  document.getElementById('score').innerText="You win!";
         }
+        else{
+            document.getElementById('score').innerText="Don't cheat, you should start form the 'S' and move to the 'E' inside the maze!";
+        }
         start = false;
         document.getElementById('score').class="scoreShow";
     }
