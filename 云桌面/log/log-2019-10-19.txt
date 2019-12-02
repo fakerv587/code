@@ -1,0 +1,369 @@
+
+[2019-10-19 21:50:03,231] level : INFO  
+login page
+
+[2019-10-19 21:50:11,764] level : INFO  
+18342077登录成功
+
+[2019-10-19 21:50:11,819] level : INFO  
+desktop list page
+
+[2019-10-19 21:50:11,876] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:50:12,164] level : INFO  
+获取桌面：[id:218548,ip:172.18.228.54,name:2019软工初级实训-软件工程实训-20190926_89,username:administrator,status:ACTIVE,type:COURSE,protocol:RDP]
+
+[2019-10-19 21:50:12,167] level : INFO  
+尝试自动连接172.18.228.54
+
+[2019-10-19 21:50:12,174] level : INFO  
+点击连接桌面172.18.228.54
+
+[2019-10-19 21:50:13,263] level : INFO  
+remote desktop page
+
+[2019-10-19 21:50:13,351] level : INFO  
+云桌面连接成功172.18.228.54 RDP
+
+[2019-10-19 21:50:16,880] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:50:21,884] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:50:26,889] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:50:31,893] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:50:34,927] level : INFO  
+remote desktop page 点击注销按钮
+
+[2019-10-19 21:50:34,929] level : INFO  
+login page
+
+[2019-10-19 21:50:35,637] level : INFO  
+login page 点击退出按钮
+
+[2019-10-19 21:56:40,322] level : INFO  
+login page
+
+[2019-10-19 21:56:46,701] level : INFO  
+18342077登录成功
+
+[2019-10-19 21:56:46,732] level : INFO  
+desktop list page
+
+[2019-10-19 21:56:46,754] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:56:47,052] level : INFO  
+获取桌面：[id:218548,ip:172.18.228.54,name:2019软工初级实训-软件工程实训-20190926_89,username:administrator,status:ACTIVE,type:COURSE,protocol:RDP]
+
+[2019-10-19 21:56:47,054] level : INFO  
+尝试自动连接172.18.228.54
+
+[2019-10-19 21:56:47,063] level : INFO  
+点击连接桌面172.18.228.54
+
+[2019-10-19 21:56:47,968] level : INFO  
+remote desktop page
+
+[2019-10-19 21:56:48,031] level : INFO  
+云桌面连接成功172.18.228.54 RDP
+
+[2019-10-19 21:56:51,758] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:56:56,762] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:01,767] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:06,770] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:11,775] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:16,779] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:21,783] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:26,788] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:31,792] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:36,796] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:41,806] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:46,810] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:51,815] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:57:56,819] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:01,822] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:06,830] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:11,834] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:16,838] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:21,842] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:26,846] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:31,850] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:36,854] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:41,858] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:46,863] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:51,867] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:58:56,871] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:01,875] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:06,880] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:11,883] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:16,887] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:21,891] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:26,896] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:31,899] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:36,904] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:41,908] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:46,911] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:51,915] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 21:59:56,919] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:01,924] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:06,928] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:11,932] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:16,936] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:21,940] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:26,944] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:31,948] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:36,952] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:41,956] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:46,960] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:51,964] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:00:56,968] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:01,972] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:06,977] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:11,982] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:16,986] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:21,990] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:26,995] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:31,999] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:37,002] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:42,006] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:47,010] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:52,014] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:01:57,019] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:02,023] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:07,027] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:12,032] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:17,036] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:22,040] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:27,044] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:32,048] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:37,052] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:42,058] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:47,062] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:52,066] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:02:57,071] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:02,074] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:07,079] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:12,083] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:17,087] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:22,091] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:27,096] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:32,100] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:37,104] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:42,108] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:47,112] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:52,117] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:03:57,122] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:04:02,126] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:04:06,374] level : INFO  
+remote desktop page 点击注销按钮
+
+[2019-10-19 22:04:06,375] level : INFO  
+login page
+
+[2019-10-19 22:04:07,060] level : INFO  
+login page 点击退出按钮
+
+[2019-10-19 22:13:28,189] level : INFO  
+login page
+
+[2019-10-19 22:13:32,134] level : INFO  
+18342077登录成功
+
+[2019-10-19 22:13:32,164] level : INFO  
+desktop list page
+
+[2019-10-19 22:13:32,184] level : WARN  
+websocket connect fail, sleep for 5 seconds and retry...
+
+[2019-10-19 22:13:32,207] level : INFO  
+获取桌面：
+
+[2019-10-19 22:13:34,593] level : INFO  
+desktop list page 点击注销按钮
+
+[2019-10-19 22:13:34,593] level : INFO  
+login page
+
+[2019-10-19 22:13:36,220] level : INFO  
+login page 点击退出按钮

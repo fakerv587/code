@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<config>
+  <!--是否锁定客户端-->
+  <lock>False</lock>
+  <!--RDP连接端口-->
+  <vmPort>3389</vmPort>
+  <!--网络模式，0 - 低速，1 - 高速 ，2 - 局域网-->
+  <speed>2</speed>
+  <!--色彩深度（16，24，32）-->
+  <color>32</color>
+  <!--是否记住账户-->
+  <keepAccount>False</keepAccount>
+  <!--连接模式(auto,rdp,spice,mstsc)-->
+  <protocol>auto</protocol>
+  <!--是否允许锁定时修改连接设置-->
+  <allowConnectionSetting>True</allowConnectionSetting>
+  <!--mstsc多屏幕-->
+  <multiMonitor>True</multiMonitor>
+  <!--HTTP请求超时时间（毫秒）-->
+  <httpTimeout>20000</httpTimeout>
+  <!--自动连接-->
+  <autoConnect>True</autoConnect>
+  <!--打开时登录页面tab索引，0 - 用户登录，1 -终端登录-->
+  <loginTab>0</loginTab>
+  <!--RDP重定向USB设备自动重连-->
+  <autoRedirectUSB>False</autoRedirectUSB>
+  <!--断网时自动解锁-->
+  <autoUnlock>True</autoUnlock>
+  <!--记住账户的用户名-->
+  <username>
+  </username>
+  <!--客户端自动更新-->
+  <checkUpdate>True</checkUpdate>
+  <!--开启网络检测并发送报告-->
+  <checkNetwork>True</checkNetwork>
+  <!--网络检测的外部第三方网络地址,多地址用“,”隔开-->
+  <externalAddress>
+  </externalAddress>
+  <!--网络检测ping间隔-->
+  <pingInterval>30000</pingInterval>
+  <!--桌面心跳间隔-->
+  <desktopHeartbeatInterval>300000</desktopHeartbeatInterval>
+  <!--开机自动启动-->
+  <autoStartup>False</autoStartup>
+  <!--服务器地址-->
+  <server>http://sysu.vinzor.net</server>
+  <!--自动终端登录-->
+  <autoTerminalLogin>False</autoTerminalLogin>
+  <!--课室管理websocket端口-->
+  <placeWebsocketPort>8080</placeWebsocketPort>
+  <!--是否刚刚更新完成-->
+  <newlyUpdated>False</newlyUpdated>
+  <!--是否首次运行-->
+  <firstlyRun>False</firstlyRun>
+  <!--客户端行业标记-->
+  <classification>edu</classification>
+  <!--窗口名字-->
+  <windowTitle>云晫云桌面</windowTitle>
+  <!--标题-->
+  <title>云晫云桌面</title>
+  <!--版权-->
+  <copyright>© 2013-2019 广州云晫科技有限公司</copyright>
+  <!--菜单栏位置  Top/Right-->
+  <menuLocation>Top</menuLocation>
+  <!--客户端的注册状态 APPROVED/WAITING/UNREGISTERED/REJECTED-->
+  <terminalStatus>UNREGISTERED</terminalStatus>
+  <!--客户端锁定状态检查间隔 默认是60000毫秒,至少10000毫秒-->
+  <terminalStatusCheckInterval>60000</terminalStatusCheckInterval>
+  <icon />
+  <logo />
+  <background />
+</config>

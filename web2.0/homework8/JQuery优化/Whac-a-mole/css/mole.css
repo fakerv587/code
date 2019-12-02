@@ -1,0 +1,103 @@
+/* 18342077 
+   南樟*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#Mole {
+	width:100%;
+	position: relative;
+}
+h1, h2 {
+	text-align: center;
+	font-family: "Century Gothic", "Futura", "Verdana", sans-serif;
+	font-weight: normal;
+}
+#table {
+	text-align: center;
+}
+#button1, #state,#timeoutput,#scoreoutput{
+	background-color: white;
+}
+#button1 {
+	margin-left:12px;
+}
+#time,#score {
+	display: inline;
+	vertical-align: middle;
+}
+#score {
+	margin-left: 5px;
+}
+#time {
+	margin-left: 45px;
+}
+#state {
+	width:200px;
+	margin-right:40px;
+}
+#button1 {
+	margin-left:15px;
+	margin-right:40px;
+}
+#timeoutput, #scoreoutput {
+	width: 30px;
+	margin-bottom: 10px;
+}
+#scoreoutput {
+	margin-bottom: 40px;
+}
+#gamemap {
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	overflow: hidden;
+	margin: auto;
+	width: 590px;
+	height: 360px;
+	background-image: url("../images/background.jpg");
+}
+.break {
+	height:5px;
+}
+.jiange {
+	display: inline;
+}
+.holes {
+	width: 45px;
+	height: 45px;
+	margin: 6px;
+	border-radius: 50%;
+	float: left;
+	border: 1px solid gray;
+}
+.change {
+	cursor: pointer;
+}
+#appear {
+	background-image: url("../images/地鼠.jpg");
+	background-size: 60px,60px;
+	background-position: center;
+}
+
+#t {
+	background-color: white;
+	background-size: 100px,100px;
+	background-position: center;
+}
+#wrong{
+	background-color: rgba(225,0,0,0.7);
+}
+#bottom {
+	margin:0 auto;
+	width: 590px;
+	height: 100px;
+}
+p, ol {
+	font-family: "Century Gothic", "Futura", "Verdana", sans-serif;
+	font-weight: bold;
+}
+
+ol{
+padding-left: 40px;
+font-weight: normal;
+}

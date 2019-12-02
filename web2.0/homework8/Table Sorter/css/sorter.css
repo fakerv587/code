@@ -1,0 +1,36 @@
+/* 18342077
+    南樟
+*/ 
+table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+th {
+    text-align: left;
+    background-color: #041A70;
+    color: white;
+    border: solid 1px #c1c1c1;
+}
+
+td {
+    border: solid 1px #c1c1c1;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.ascend {
+    background-image: url("../images/ascend.png");
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    background-color: #A4B0F0;
+}
+
+.descend {
+    background-image: url("../images/descend.png");
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    background-color: #A4B0F0;
+}
